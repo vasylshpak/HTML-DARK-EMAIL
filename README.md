@@ -6,7 +6,7 @@ Sometimes all you want is a really simple responsive HTML email template. Here i
 
 I try to make this Email template responsive and readable on all available browsers, mobile and email clients such a Gmail, Outlook, Thunderbird
 
-### Prerequisites
+### Setting
 
 please download to to check it out
 
